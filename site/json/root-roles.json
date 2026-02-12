@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Elite Cars (21)",
+    "icon": "fa-solid fa-users icon-blue",
+    "children": [
+      {
+        "text": "Contact Experience Head (2)",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [
+          {
+            "text": "Contact Center Manager (1)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "Contact Center Supervisor (1)",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [
+                  {
+                    "text": "Contact Center Team Leader (1)",
+                    "icon": "fa-solid fa-users icon-blue",
+                    "children": [
+                      {
+                        "text": "Contact Center Agent",
+                        "icon": "fa-solid fa-users icon-blue",
+                        "children": [],
+                        "roleData": {
+                          "apiName": "EGH_ContactCenterAgentRole",
+                          "caseAccessLevel": "Edit",
+                          "contactAccessLevel": "Edit",
+                          "description": "Contact Center Agent",
+                          "mayForecastManagerShare": "",
+                          "name": "Contact Center Agent",
+                          "opportunityAccessLevel": "None",
+                          "parentRole": "Contact_Center_Team_Leader"
+                        }
+                      }
+                    ],
+                    "roleData": {
+                      "apiName": "Contact_Center_Team_Leader",
+                      "caseAccessLevel": "Edit",
+                      "contactAccessLevel": "Edit",
+                      "description": "Contact Center Team Leader",
+                      "mayForecastManagerShare": "",
+                      "name": "Contact Center Team Leader",
+                      "opportunityAccessLevel": "None",
+                      "parentRole": "Contact_Center_Supervisor"
+                    }
+                  }
+                ],
+                "roleData": {
+                  "apiName": "Contact_Center_Supervisor",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "Contact Center Supervisor",
+                  "mayForecastManagerShare": "",
+                  "name": "Contact Center Supervisor",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "EGH_ContactCenterManagerRole"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "EGH_ContactCenterManagerRole",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "Contact Center Manager",
+              "mayForecastManagerShare": "",
+              "name": "Contact Center Manager",
+              "opportunityAccessLevel": "Edit",
+              "parentRole": "CRX"
+            }
+          },
+          {
+            "text": "CRM Manager (2)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "CRM Specialist",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [],
+                "roleData": {
+                  "apiName": "CRM_Specialist",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "CRM Specialist",
+                  "mayForecastManagerShare": "",
+                  "name": "CRM Specialist",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "CRM_Manager"
+                }
+              },
+              {
+                "text": "QA and Data Analyst",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [],
+                "roleData": {
+                  "apiName": "QA_and_Data_Analyst",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "QA and Data Analyst",
+                  "mayForecastManagerShare": "",
+                  "name": "QA and Data Analyst",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "CRM_Manager"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "CRM_Manager",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "CRM_Manager",
+              "mayForecastManagerShare": "",
+              "name": "CRM Manager",
+              "opportunityAccessLevel": "None",
+              "parentRole": "CRX"
+            }
+          }
+        ],
+        "roleData": {
+          "apiName": "CRX",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Contact Experience Head",
+          "mayForecastManagerShare": "",
+          "name": "Contact Experience Head",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Customer Excellence Manager (3)",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [
+          {
+            "text": "CSI Leader (1)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "CSI Agent",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [],
+                "roleData": {
+                  "apiName": "EGH_CSIAgentRole",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "CSI Agent",
+                  "mayForecastManagerShare": "",
+                  "name": "CSI Agent",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "EGH_CSILeaderRole"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "EGH_CSILeaderRole",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "CSI Leader",
+              "mayForecastManagerShare": "",
+              "name": "CSI Leader",
+              "opportunityAccessLevel": "None",
+              "parentRole": "CEX_Manager"
+            }
+          },
+          {
+            "text": "Customer Excellence Leader (1)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "Customer Excellence Exec",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [],
+                "roleData": {
+                  "apiName": "EGH_CustomerExcellenceExecRole",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "Customer Excellence Exec",
+                  "mayForecastManagerShare": "",
+                  "name": "Customer Excellence Exec",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "EGH_CustomerExcellenceLeaderRole"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "EGH_CustomerExcellenceLeaderRole",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "Customer Excellence Leader",
+              "mayForecastManagerShare": "",
+              "name": "Customer Excellence Leader",
+              "opportunityAccessLevel": "None",
+              "parentRole": "CEX_Manager"
+            }
+          },
+          {
+            "text": "Digital Sales Manager (1)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "Digital Sales Team Leader (1)",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [
+                  {
+                    "text": "Digital Sales Consultant",
+                    "icon": "fa-solid fa-users icon-blue",
+                    "children": [],
+                    "roleData": {
+                      "apiName": "EGH_DigitalSalesConsultant",
+                      "caseAccessLevel": "Edit",
+                      "contactAccessLevel": "Edit",
+                      "description": "Digital Sales Consultant",
+                      "mayForecastManagerShare": "",
+                      "name": "Digital Sales Consultant",
+                      "opportunityAccessLevel": "None",
+                      "parentRole": "Digital_Sales_Team_Leader"
+                    }
+                  }
+                ],
+                "roleData": {
+                  "apiName": "Digital_Sales_Team_Leader",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "Digital Sales Team Leader",
+                  "mayForecastManagerShare": "",
+                  "name": "Digital Sales Team Leader",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "EGH_DigitalSalesManager"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "EGH_DigitalSalesManager",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "mayForecastManagerShare": "",
+              "name": "Digital Sales Manager",
+              "opportunityAccessLevel": "None",
+              "parentRole": "CEX_Manager"
+            }
+          }
+        ],
+        "roleData": {
+          "apiName": "CEX_Manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Customer Excellence Manager",
+          "mayForecastManagerShare": "",
+          "name": "Customer Excellence Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Customer Experience Manager (2)",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [
+          {
+            "text": "Meet&Greet Supervisor (1)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "Meet&Greet Team Leader (1)",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [
+                  {
+                    "text": "Meet&Greet Agent",
+                    "icon": "fa-solid fa-users icon-blue",
+                    "children": [],
+                    "roleData": {
+                      "apiName": "Meet_Greet_Agent",
+                      "caseAccessLevel": "Edit",
+                      "contactAccessLevel": "Edit",
+                      "description": "Meet&Greet Agent",
+                      "mayForecastManagerShare": "",
+                      "name": "Meet&Greet Agent",
+                      "opportunityAccessLevel": "None",
+                      "parentRole": "Meet_Greet_Team_Leader"
+                    }
+                  }
+                ],
+                "roleData": {
+                  "apiName": "Meet_Greet_Team_Leader",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "Meet&Greet Team Leader",
+                  "mayForecastManagerShare": "",
+                  "name": "Meet&Greet Team Leader",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "MeetGreetSupervisor"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "MeetGreetSupervisor",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "Meet&Greet Supervisor",
+              "mayForecastManagerShare": "",
+              "name": "Meet&Greet Supervisor",
+              "opportunityAccessLevel": "None",
+              "parentRole": "EGH_CustomerExperienceRole"
+            }
+          },
+          {
+            "text": "Product Genius Admin (1)",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [
+              {
+                "text": "Product Genius Leader (1)",
+                "icon": "fa-solid fa-users icon-blue",
+                "children": [
+                  {
+                    "text": "Product Genius Agent",
+                    "icon": "fa-solid fa-users icon-blue",
+                    "children": [],
+                    "roleData": {
+                      "apiName": "Product_Genius_Agent",
+                      "caseAccessLevel": "Edit",
+                      "contactAccessLevel": "Edit",
+                      "description": "Product Genius Agent",
+                      "mayForecastManagerShare": "",
+                      "name": "Product Genius Agent",
+                      "opportunityAccessLevel": "None",
+                      "parentRole": "Product_Genius_Leader"
+                    }
+                  }
+                ],
+                "roleData": {
+                  "apiName": "Product_Genius_Leader",
+                  "caseAccessLevel": "Edit",
+                  "contactAccessLevel": "Edit",
+                  "description": "Product Genius Leader",
+                  "mayForecastManagerShare": "",
+                  "name": "Product Genius Leader",
+                  "opportunityAccessLevel": "None",
+                  "parentRole": "EGH_ProductGeniusAdminRole"
+                }
+              }
+            ],
+            "roleData": {
+              "apiName": "EGH_ProductGeniusAdminRole",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "Product Genius Admin",
+              "mayForecastManagerShare": "",
+              "name": "Product Genius Admin",
+              "opportunityAccessLevel": "None",
+              "parentRole": "EGH_CustomerExperienceRole"
+            }
+          }
+        ],
+        "roleData": {
+          "apiName": "EGH_CustomerExperienceRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Customer Experience Manager",
+          "mayForecastManagerShare": "",
+          "name": "Customer Experience Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Dealer Principle",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_DealerPrincipleRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Dealer Principle",
+          "mayForecastManagerShare": "",
+          "name": "Dealer Principle",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "F&I Consultant",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_F_IConsultantRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "F&I Consultant",
+          "mayForecastManagerShare": "",
+          "name": "F&I Consultant",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "F&I Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_F_IRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "F&I Manager",
+          "mayForecastManagerShare": "",
+          "name": "F&I Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Fleet Sales Consultant",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Fleet_Sales_Consultant",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Fleet Sales Consultant",
+          "mayForecastManagerShare": "",
+          "name": "Fleet Sales Consultant",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Fleet Sales manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Fleet_Sales_manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Fleet Sales manager",
+          "mayForecastManagerShare": "",
+          "name": "Fleet Sales manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Fleet Showroom Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Fleet_Showroom_Manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Fleet Showroom Manager",
+          "mayForecastManagerShare": "",
+          "name": "Fleet Showroom Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Leasing Sales Consultant",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Leasing_Sales_Consultant",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Leasing Sales Consultant",
+          "mayForecastManagerShare": "",
+          "name": "Leasing Sales Consultant",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Leasing Sales Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Leasing_Sales_Manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Leasing Sales Manager",
+          "mayForecastManagerShare": "",
+          "name": "Leasing Sales Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Leasing Showroom Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Leasing_Showroom_Manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Leasing Showroom Manager",
+          "mayForecastManagerShare": "",
+          "name": "Leasing Showroom Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Sales Consultant",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_SalesConsultantRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Sales Consultant",
+          "mayForecastManagerShare": "",
+          "name": "Sales Consultant",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Sales Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Sales_Manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Sales Manager",
+          "mayForecastManagerShare": "",
+          "name": "Sales Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Sales Support Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Sales_Support_Manager",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Sales Support Manager",
+          "mayForecastManagerShare": "",
+          "name": "Sales Support Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Sales Support Officer",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Sales_Support_Officer",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Sales Support Officer",
+          "mayForecastManagerShare": "",
+          "name": "Sales Support Officer",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Sales Support Team Leader",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "Sales_Support_Team_Leader",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Sales Support Team Leader",
+          "mayForecastManagerShare": "",
+          "name": "Sales Support Team Leader",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Showroom Manager",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_ShowroomManagerRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Showroom Manager",
+          "mayForecastManagerShare": "",
+          "name": "Showroom Manager",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Test Drive Admin (1)",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [
+          {
+            "text": "Test Drive Supervisor",
+            "icon": "fa-solid fa-users icon-blue",
+            "children": [],
+            "roleData": {
+              "apiName": "Test_Drive_Supervisor",
+              "caseAccessLevel": "Edit",
+              "contactAccessLevel": "Edit",
+              "description": "Test Drive Supervisor",
+              "mayForecastManagerShare": "",
+              "name": "Test Drive Supervisor",
+              "opportunityAccessLevel": "None",
+              "parentRole": "EGH_TestDriveAdminRole"
+            }
+          }
+        ],
+        "roleData": {
+          "apiName": "EGH_TestDriveAdminRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Test Drive Admin",
+          "mayForecastManagerShare": "",
+          "name": "Test Drive Admin",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Test Drive Coordinator",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_TestDriveCoordinatorRole",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Test Drive Coordinator",
+          "mayForecastManagerShare": "",
+          "name": "Test Drive Coordinator",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      },
+      {
+        "text": "Test Drive Supervisor",
+        "icon": "fa-solid fa-users icon-blue",
+        "children": [],
+        "roleData": {
+          "apiName": "EGH_TestDriveSupervisor",
+          "caseAccessLevel": "Edit",
+          "contactAccessLevel": "Edit",
+          "description": "Test Drive Supervisor",
+          "mayForecastManagerShare": "",
+          "name": "Test Drive Supervisor",
+          "opportunityAccessLevel": "None",
+          "parentRole": "EliteCars"
+        }
+      }
+    ],
+    "roleData": {
+      "apiName": "EliteCars",
+      "caseAccessLevel": "Edit",
+      "contactAccessLevel": "Edit",
+      "description": "Elite Cars",
+      "mayForecastManagerShare": "",
+      "name": "Elite Cars",
+      "opportunityAccessLevel": "None"
+    }
+  }
+]
