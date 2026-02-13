@@ -1,3243 +1,3243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/</loc>
+         <loc>https://salesforce.com</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/force-app-package.xml/</loc>
+         <loc>https://salesforce.comforce-app-package.xml/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/manifests/</loc>
+         <loc>https://salesforce.commanifests/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/roles/</loc>
+         <loc>https://salesforce.comroles/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/sfdx-hardis-branches-and-orgs/</loc>
+         <loc>https://salesforce.comsfdx-hardis-branches-and-orgs/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/sfdx-hardis-params/</loc>
+         <loc>https://salesforce.comsfdx-hardis-params/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/</loc>
+         <loc>https://salesforce.comapex/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/ChangePasswordController/</loc>
+         <loc>https://salesforce.comapex/ChangePasswordController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/ChangePasswordControllerTest/</loc>
+         <loc>https://salesforce.comapex/ChangePasswordControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesLandingController/</loc>
+         <loc>https://salesforce.comapex/CommunitiesLandingController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesLandingControllerTest/</loc>
+         <loc>https://salesforce.comapex/CommunitiesLandingControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesLoginController/</loc>
+         <loc>https://salesforce.comapex/CommunitiesLoginController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesLoginControllerTest/</loc>
+         <loc>https://salesforce.comapex/CommunitiesLoginControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesSelfRegConfirmController/</loc>
+         <loc>https://salesforce.comapex/CommunitiesSelfRegConfirmController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesSelfRegConfirmControllerTest/</loc>
+         <loc>https://salesforce.comapex/CommunitiesSelfRegConfirmControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesSelfRegController/</loc>
+         <loc>https://salesforce.comapex/CommunitiesSelfRegController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/CommunitiesSelfRegControllerTest/</loc>
+         <loc>https://salesforce.comapex/CommunitiesSelfRegControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGHResourceTimelineController/</loc>
+         <loc>https://salesforce.comapex/EGHResourceTimelineController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGHResourceTimelineControllerTest/</loc>
+         <loc>https://salesforce.comapex/EGHResourceTimelineControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGHTestDriveTimelineController/</loc>
+         <loc>https://salesforce.comapex/EGHTestDriveTimelineController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGHTestDriveTimelineControllerTest/</loc>
+         <loc>https://salesforce.comapex/EGHTestDriveTimelineControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AppraisalAdjustmentTriggerHandler/</loc>
+         <loc>https://salesforce.comapex/EGH_AppraisalAdjustmentTriggerHandler/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AppraisalAdjustmentTriggerHelper/</loc>
+         <loc>https://salesforce.comapex/EGH_AppraisalAdjustmentTriggerHelper/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AppraisalAdjustmentTriggerTest/</loc>
+         <loc>https://salesforce.comapex/EGH_AppraisalAdjustmentTriggerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AppraisalItemTriggerHandler/</loc>
+         <loc>https://salesforce.comapex/EGH_AppraisalItemTriggerHandler/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AppraisalTriggerHandler/</loc>
+         <loc>https://salesforce.comapex/EGH_AppraisalTriggerHandler/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AssignedResourceInspectTriggerTest/</loc>
+         <loc>https://salesforce.comapex/EGH_AssignedResourceInspectTriggerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_AssignedResourceTriggerTest/</loc>
+         <loc>https://salesforce.comapex/EGH_AssignedResourceTriggerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_BookAppointmentRest/</loc>
+         <loc>https://salesforce.comapex/EGH_BookAppointmentRest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_CheckCapacityForVisitRouting/</loc>
+         <loc>https://salesforce.comapex/EGH_CheckCapacityForVisitRouting/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_CheckCapacityForVisitRoutingTest/</loc>
+         <loc>https://salesforce.comapex/EGH_CheckCapacityForVisitRoutingTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_DamageCaptureController/</loc>
+         <loc>https://salesforce.comapex/EGH_DamageCaptureController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_DamageCaptureController_Test/</loc>
+         <loc>https://salesforce.comapex/EGH_DamageCaptureController_Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_FormatServiceAppointmentTime/</loc>
+         <loc>https://salesforce.comapex/EGH_FormatServiceAppointmentTime/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_FormatServiceAppointmentTime_Test/</loc>
+         <loc>https://salesforce.comapex/EGH_FormatServiceAppointmentTime_Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_GetDependentPicklistValues/</loc>
+         <loc>https://salesforce.comapex/EGH_GetDependentPicklistValues/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_GetDependentPicklistValues_Test/</loc>
+         <loc>https://salesforce.comapex/EGH_GetDependentPicklistValues_Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_GetSlotsRest/</loc>
+         <loc>https://salesforce.comapex/EGH_GetSlotsRest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_LeadFindDuplicates/</loc>
+         <loc>https://salesforce.comapex/EGH_LeadFindDuplicates/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_LeadFindDuplicatesTest/</loc>
+         <loc>https://salesforce.comapex/EGH_LeadFindDuplicatesTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_LeadRatingHelper/</loc>
+         <loc>https://salesforce.comapex/EGH_LeadRatingHelper/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_MeetGreetSearchControllerClass/</loc>
+         <loc>https://salesforce.comapex/EGH_MeetGreetSearchControllerClass/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_MeetGreetSearchControllerClass_Test/</loc>
+         <loc>https://salesforce.comapex/EGH_MeetGreetSearchControllerClass_Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_OpportunityScoringController/</loc>
+         <loc>https://salesforce.comapex/EGH_OpportunityScoringController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_OpportunityScoringControllerTest/</loc>
+         <loc>https://salesforce.comapex/EGH_OpportunityScoringControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_RestTests/</loc>
+         <loc>https://salesforce.comapex/EGH_RestTests/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_ServiceAppointmentTriggerHandler/</loc>
+         <loc>https://salesforce.comapex/EGH_ServiceAppointmentTriggerHandler/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_ServiceAppointmentUpdateVDCTest/</loc>
+         <loc>https://salesforce.comapex/EGH_ServiceAppointmentUpdateVDCTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_StringToPicklistOptions/</loc>
+         <loc>https://salesforce.comapex/EGH_StringToPicklistOptions/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_StringToPicklistOptionsTest/</loc>
+         <loc>https://salesforce.comapex/EGH_StringToPicklistOptionsTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_TeamLeaderControllerClass/</loc>
+         <loc>https://salesforce.comapex/EGH_TeamLeaderControllerClass/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_TeamLeaderControllerClassTest/</loc>
+         <loc>https://salesforce.comapex/EGH_TeamLeaderControllerClassTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_TestDriveSlotFinder/</loc>
+         <loc>https://salesforce.comapex/EGH_TestDriveSlotFinder/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_TestDriveSlotFinder_Test/</loc>
+         <loc>https://salesforce.comapex/EGH_TestDriveSlotFinder_Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_UpdateVisitStartEndTime/</loc>
+         <loc>https://salesforce.comapex/EGH_UpdateVisitStartEndTime/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_UpdateVisitStartEndTime_Test/</loc>
+         <loc>https://salesforce.comapex/EGH_UpdateVisitStartEndTime_Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_UpdateVisitTimeAndStatus/</loc>
+         <loc>https://salesforce.comapex/EGH_UpdateVisitTimeAndStatus/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_getPresenceStatusIdClass/</loc>
+         <loc>https://salesforce.comapex/EGH_getPresenceStatusIdClass/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/EGH_getPresenceStatusIdClassTest/</loc>
+         <loc>https://salesforce.comapex/EGH_getPresenceStatusIdClassTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/ForgotPasswordController/</loc>
+         <loc>https://salesforce.comapex/ForgotPasswordController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/ForgotPasswordControllerTest/</loc>
+         <loc>https://salesforce.comapex/ForgotPasswordControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/MicrobatchSelfRegController/</loc>
+         <loc>https://salesforce.comapex/MicrobatchSelfRegController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/MicrobatchSelfRegControllerTest/</loc>
+         <loc>https://salesforce.comapex/MicrobatchSelfRegControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/MyProfilePageController/</loc>
+         <loc>https://salesforce.comapex/MyProfilePageController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/MyProfilePageControllerTest/</loc>
+         <loc>https://salesforce.comapex/MyProfilePageControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/PicklistOption/</loc>
+         <loc>https://salesforce.comapex/PicklistOption/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/RecentAccountsController/</loc>
+         <loc>https://salesforce.comapex/RecentAccountsController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/SiteLoginController/</loc>
+         <loc>https://salesforce.comapex/SiteLoginController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/SiteLoginControllerTest/</loc>
+         <loc>https://salesforce.comapex/SiteLoginControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/SiteRegisterController/</loc>
+         <loc>https://salesforce.comapex/SiteRegisterController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/SiteRegisterControllerTest/</loc>
+         <loc>https://salesforce.comapex/SiteRegisterControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/StatusSyncManager/</loc>
+         <loc>https://salesforce.comapex/StatusSyncManager/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/StatusSyncManagerTest/</loc>
+         <loc>https://salesforce.comapex/StatusSyncManagerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/eghChecklistManagerController/</loc>
+         <loc>https://salesforce.comapex/eghChecklistManagerController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/eghChecklistManagerControllerTest/</loc>
+         <loc>https://salesforce.comapex/eghChecklistManagerControllerTest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/apex/ers_DatatableController/</loc>
+         <loc>https://salesforce.comapex/ers_DatatableController/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/approvalProcesses/</loc>
+         <loc>https://salesforce.comapprovalProcesses/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/approvalProcesses/Lead.EGH_LeadsRejectionApprovalProcess/</loc>
+         <loc>https://salesforce.comapprovalProcesses/Lead.EGH_LeadsRejectionApprovalProcess/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/assignmentRules/</loc>
+         <loc>https://salesforce.comassignmentRules/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/assignmentRules/Case.Customer%20Excellence%20Teams%20Routing/</loc>
+         <loc>https://salesforce.comassignmentRules/Case.Customer%20Excellence%20Teams%20Routing/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/assignmentRules/Lead.EGH%20Lead%20Queue%20Assignment/</loc>
+         <loc>https://salesforce.comassignmentRules/Lead.EGH%20Lead%20Queue%20Assignment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/</loc>
+         <loc>https://salesforce.comflows/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/CX_Cloud_Create_New_Lead_Screen_Pop/</loc>
+         <loc>https://salesforce.comflows/CX_Cloud_Create_New_Lead_Screen_Pop/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/Datatable_Configuration_Wizard5/</loc>
+         <loc>https://salesforce.comflows/Datatable_Configuration_Wizard5/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Account_Update_External_ID/</loc>
+         <loc>https://salesforce.comflows/EGH_Account_Update_External_ID/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_AppraisalAdjustmentUpdatedFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_AppraisalAdjustmentUpdatedFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_AppraisalAssignToEvaluatorsQueueFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_AppraisalAssignToEvaluatorsQueueFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Asset_Update_External_ID/</loc>
+         <loc>https://salesforce.comflows/EGH_Asset_Update_External_ID/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Auto_Complete_Case_Milestones/</loc>
+         <loc>https://salesforce.comflows/EGH_Auto_Complete_Case_Milestones/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Auto_Complete_Milestonnes/</loc>
+         <loc>https://salesforce.comflows/EGH_Auto_Complete_Milestonnes/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Campaign_User_Entry_Check_Flow/</loc>
+         <loc>https://salesforce.comflows/EGH_Campaign_User_Entry_Check_Flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_CaseCreateFeedbackCaseForPoorScoreSurveys/</loc>
+         <loc>https://salesforce.comflows/EGH_CaseCreateFeedbackCaseForPoorScoreSurveys/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Case_Action_Notification_After_4_Hour/</loc>
+         <loc>https://salesforce.comflows/EGH_Case_Action_Notification_After_4_Hour/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Case_Notification_After_5_Hour/</loc>
+         <loc>https://salesforce.comflows/EGH_Case_Notification_After_5_Hour/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Close_Main_Case_When_All_Internal_Cases_Are_Closed/</loc>
+         <loc>https://salesforce.comflows/EGH_Close_Main_Case_When_All_Internal_Cases_Are_Closed/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Collect_Emails_For_Escalation_Flow/</loc>
+         <loc>https://salesforce.comflows/EGH_Collect_Emails_For_Escalation_Flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Consumer_Body_Email_Case_Updates/</loc>
+         <loc>https://salesforce.comflows/EGH_Consumer_Body_Email_Case_Updates/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Contact_Mark_First_Contact_as_Primary/</loc>
+         <loc>https://salesforce.comflows/EGH_Contact_Mark_First_Contact_as_Primary/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Create_Internal_Escalation_Case/</loc>
+         <loc>https://salesforce.comflows/EGH_Create_Internal_Escalation_Case/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Create_Lead_Sales_Team/</loc>
+         <loc>https://salesforce.comflows/EGH_Create_Lead_Sales_Team/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Digital_Interaction_Link_Lead_With_Campaign/</loc>
+         <loc>https://salesforce.comflows/EGH_Digital_Interaction_Link_Lead_With_Campaign/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Digital_Interaction_Update_Lead_Latest_Interaction_Channel/</loc>
+         <loc>https://salesforce.comflows/EGH_Digital_Interaction_Update_Lead_Latest_Interaction_Channel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Insert_Lead_as_Campaign_Member/</loc>
+         <loc>https://salesforce.comflows/EGH_Insert_Lead_as_Campaign_Member/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_LeadAndVisitShowroomAssignmentFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_LeadAndVisitShowroomAssignmentFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_LeadFollowUpTaskCreation/</loc>
+         <loc>https://salesforce.comflows/EGH_LeadFollowUpTaskCreation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_LeadFollowUpTaskCreation2nd3rd/</loc>
+         <loc>https://salesforce.comflows/EGH_LeadFollowUpTaskCreation2nd3rd/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_LeadShowroomOmniChannelAssignmentFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_LeadShowroomOmniChannelAssignmentFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_LeadUpdateLeadSentToBotDateTimeFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_LeadUpdateLeadSentToBotDateTimeFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Acknowledgement_Email/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Acknowledgement_Email/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Add_Leasing_Fleet_Consultant_to_Lead_Sales_Team/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Add_Leasing_Fleet_Consultant_to_Lead_Sales_Team/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Add_Sales_Consultant_to_Lead_Sales_Team/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Add_Sales_Consultant_to_Lead_Sales_Team/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Auto_Rejection_Scheduled_Flow/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Auto_Rejection_Scheduled_Flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Create_Follow_Up_Task/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Create_Follow_Up_Task/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Creation_Set_Defaults_Flow/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Creation_Set_Defaults_Flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Lost_Reason_Capture/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Lost_Reason_Capture/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Owner_information/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Owner_information/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Routing_SubFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Routing_SubFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Sales_Team_Account_Mapping/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Sales_Team_Account_Mapping/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Lead_Update_External_ID/</loc>
+         <loc>https://salesforce.comflows/EGH_Lead_Update_External_ID/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_LeadsRejectionApprovalProcessScreenFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_LeadsRejectionApprovalProcessScreenFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_MeetGreetTestFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_MeetGreetTestFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Object_Identifier_Using_RecordID/</loc>
+         <loc>https://salesforce.comflows/EGH_Object_Identifier_Using_RecordID/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Opportunity_Add_Sales_Consultant_to_Lead_Sales_Team/</loc>
+         <loc>https://salesforce.comflows/EGH_Opportunity_Add_Sales_Consultant_to_Lead_Sales_Team/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Opportunity_Follow_up_Tasks_Creation_Scheduled_Flow/</loc>
+         <loc>https://salesforce.comflows/EGH_Opportunity_Follow_up_Tasks_Creation_Scheduled_Flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_OutboundTestDriveAppointment/</loc>
+         <loc>https://salesforce.comflows/EGH_OutboundTestDriveAppointment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Product_External_ID_Update/</loc>
+         <loc>https://salesforce.comflows/EGH_Product_External_ID_Update/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Product_Genius/</loc>
+         <loc>https://salesforce.comflows/EGH_Product_Genius/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_ServiceAppointmentUpdateStatusToCompletedFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_ServiceAppointmentUpdateStatusToCompletedFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Set_Branch_Code/</loc>
+         <loc>https://salesforce.comflows/EGH_Set_Branch_Code/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Showroom_Visit_Populate_Contact/</loc>
+         <loc>https://salesforce.comflows/EGH_Showroom_Visit_Populate_Contact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Showroom_Visit_Reopen_Related_Lead/</loc>
+         <loc>https://salesforce.comflows/EGH_Showroom_Visit_Reopen_Related_Lead/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_StartTestDriveFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_StartTestDriveFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_StopTestDriveFlow/</loc>
+         <loc>https://salesforce.comflows/EGH_StopTestDriveFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Update_Case_Description_for_Knowledge_Article_Matching/</loc>
+         <loc>https://salesforce.comflows/EGH_Update_Case_Description_for_Knowledge_Article_Matching/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Update_Case_Status_to_In_Progress/</loc>
+         <loc>https://salesforce.comflows/EGH_Update_Case_Status_to_In_Progress/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Update_External_ID_On_Opportunity/</loc>
+         <loc>https://salesforce.comflows/EGH_Update_External_ID_On_Opportunity/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/EGH_Update_Time_In_Description/</loc>
+         <loc>https://salesforce.comflows/EGH_Update_Time_In_Description/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/Get_Related_Record_Voice_Call/</loc>
+         <loc>https://salesforce.comflows/Get_Related_Record_Voice_Call/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/Send_Email_Warning/</loc>
+         <loc>https://salesforce.comflows/Send_Email_Warning/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/Set_Parent_Lead_as_Qualified/</loc>
+         <loc>https://salesforce.comflows/Set_Parent_Lead_as_Qualified/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/art_post_sales_survey/</loc>
+         <loc>https://salesforce.comflows/art_post_sales_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/arts_lead_lost_survey_flow/</loc>
+         <loc>https://salesforce.comflows/arts_lead_lost_survey_flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/arts_lost_opportunity_survey/</loc>
+         <loc>https://salesforce.comflows/arts_lost_opportunity_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/arts_part_purchase_survey/</loc>
+         <loc>https://salesforce.comflows/arts_part_purchase_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/arts_showroom_experience_survey/</loc>
+         <loc>https://salesforce.comflows/arts_showroom_experience_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/arts_test_drive_experience/</loc>
+         <loc>https://salesforce.comflows/arts_test_drive_experience/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/customer_satisfaction/</loc>
+         <loc>https://salesforce.comflows/customer_satisfaction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/dm_031f5a5b_98ab_4c69_8692_7628437bbb5b/</loc>
+         <loc>https://salesforce.comflows/dm_031f5a5b_98ab_4c69_8692_7628437bbb5b/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/dm_266cd062_188e_478b_b6e1_00b3901d4b47/</loc>
+         <loc>https://salesforce.comflows/dm_266cd062_188e_478b_b6e1_00b3901d4b47/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/dm_85a98cc6_9c17_438f_a935_95eaec532f08/</loc>
+         <loc>https://salesforce.comflows/dm_85a98cc6_9c17_438f_a935_95eaec532f08/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/dm_e8fe1326_4176_4006_bebf_018153a1f0ac/</loc>
+         <loc>https://salesforce.comflows/dm_e8fe1326_4176_4006_bebf_018153a1f0ac/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/egh_Auto_Assign_Entitlement_Flow/</loc>
+         <loc>https://salesforce.comflows/egh_Auto_Assign_Entitlement_Flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/elite_lead_lost_survey_flow/</loc>
+         <loc>https://salesforce.comflows/elite_lead_lost_survey_flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/elite_lost_opportunity_survey/</loc>
+         <loc>https://salesforce.comflows/elite_lost_opportunity_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/elite_part_purchase_survey/</loc>
+         <loc>https://salesforce.comflows/elite_part_purchase_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/elite_post_sales_survey/</loc>
+         <loc>https://salesforce.comflows/elite_post_sales_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/elite_showroom_experience_survey_flow/</loc>
+         <loc>https://salesforce.comflows/elite_showroom_experience_survey_flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/elite_test_drive_experience/</loc>
+         <loc>https://salesforce.comflows/elite_test_drive_experience/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/get_related_record_experience/</loc>
+         <loc>https://salesforce.comflows/get_related_record_experience/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_lead_lost_survey_flow/</loc>
+         <loc>https://salesforce.comflows/jetour_lead_lost_survey_flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_lost_opportunity_survey/</loc>
+         <loc>https://salesforce.comflows/jetour_lost_opportunity_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_part_purchase_survey/</loc>
+         <loc>https://salesforce.comflows/jetour_part_purchase_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_post_bodyshop_survey/</loc>
+         <loc>https://salesforce.comflows/jetour_post_bodyshop_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_post_sales_survey/</loc>
+         <loc>https://salesforce.comflows/jetour_post_sales_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_post_service_survey/</loc>
+         <loc>https://salesforce.comflows/jetour_post_service_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_showroom_experience_survey/</loc>
+         <loc>https://salesforce.comflows/jetour_showroom_experience_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_survey_template/</loc>
+         <loc>https://salesforce.comflows/jetour_survey_template/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/jetour_test_drive_experience/</loc>
+         <loc>https://salesforce.comflows/jetour_test_drive_experience/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/knowledge_article_feedback/</loc>
+         <loc>https://salesforce.comflows/knowledge_article_feedback/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/net_promoter_score/</loc>
+         <loc>https://salesforce.comflows/net_promoter_score/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/salesforce_demo/</loc>
+         <loc>https://salesforce.comflows/salesforce_demo/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_lead_lost_survey_flow/</loc>
+         <loc>https://salesforce.comflows/soueast_lead_lost_survey_flow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_lost_opportunity_survey/</loc>
+         <loc>https://salesforce.comflows/soueast_lost_opportunity_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_part_purchase_survey/</loc>
+         <loc>https://salesforce.comflows/soueast_part_purchase_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_post_bodyshop_survey/</loc>
+         <loc>https://salesforce.comflows/soueast_post_bodyshop_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_post_sales_survey/</loc>
+         <loc>https://salesforce.comflows/soueast_post_sales_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_post_service_survey/</loc>
+         <loc>https://salesforce.comflows/soueast_post_service_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_showroom_experience_survey/</loc>
+         <loc>https://salesforce.comflows/soueast_showroom_experience_survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/flows/soueast_test_drive_experience/</loc>
+         <loc>https://salesforce.comflows/soueast_test_drive_experience/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/json/</loc>
+         <loc>https://salesforce.comjson/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/</loc>
+         <loc>https://salesforce.comlwc/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/certificateTemplate/</loc>
+         <loc>https://salesforce.comlwc/certificateTemplate/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/cfAssetCalculatedInsightsAssetPageSingleCard/</loc>
+         <loc>https://salesforce.comlwc/cfAssetCalculatedInsightsAssetPageSingleCard/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/cfEghMeetGreetHeader/</loc>
+         <loc>https://salesforce.comlwc/cfEghMeetGreetHeader/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/cfEghMeetGreetHeader_1_abhi/</loc>
+         <loc>https://salesforce.comlwc/cfEghMeetGreetHeader_1_abhi/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/datatable/</loc>
+         <loc>https://salesforce.comlwc/datatable/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eGH_AutoNavigate/</loc>
+         <loc>https://salesforce.comlwc/eGH_AutoNavigate/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eGH_GenericToastMessage/</loc>
+         <loc>https://salesforce.comlwc/eGH_GenericToastMessage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eGH_ReopenCase/</loc>
+         <loc>https://salesforce.comlwc/eGH_ReopenCase/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eGH_customFooter/</loc>
+         <loc>https://salesforce.comlwc/eGH_customFooter/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/editPersonalClientRecord/</loc>
+         <loc>https://salesforce.comlwc/editPersonalClientRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/editPersonalClientRecordSimple/</loc>
+         <loc>https://salesforce.comlwc/editPersonalClientRecordSimple/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghCheckListManager/</loc>
+         <loc>https://salesforce.comlwc/eghCheckListManager/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghCustomerCategoryBadge/</loc>
+         <loc>https://salesforce.comlwc/eghCustomerCategoryBadge/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghDamageCaptureForm/</loc>
+         <loc>https://salesforce.comlwc/eghDamageCaptureForm/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghFlexScore/</loc>
+         <loc>https://salesforce.comlwc/eghFlexScore/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghGenericFlowButton/</loc>
+         <loc>https://salesforce.comlwc/eghGenericFlowButton/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghGenericFlowPicklist/</loc>
+         <loc>https://salesforce.comlwc/eghGenericFlowPicklist/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghLeadScore/</loc>
+         <loc>https://salesforce.comlwc/eghLeadScore/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghMeetGreetHeaderCmp/</loc>
+         <loc>https://salesforce.comlwc/eghMeetGreetHeaderCmp/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghResourceTimeline/</loc>
+         <loc>https://salesforce.comlwc/eghResourceTimeline/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghTestDriveScheduler/</loc>
+         <loc>https://salesforce.comlwc/eghTestDriveScheduler/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/eghTestDriveTimeline/</loc>
+         <loc>https://salesforce.comlwc/eghTestDriveTimeline/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/egh_customFooterPreviousComponent/</loc>
+         <loc>https://salesforce.comlwc/egh_customFooterPreviousComponent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/ers_comboboxColumnType/</loc>
+         <loc>https://salesforce.comlwc/ers_comboboxColumnType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/ers_customLightningDatatable/</loc>
+         <loc>https://salesforce.comlwc/ers_customLightningDatatable/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/ers_datatableCPE/</loc>
+         <loc>https://salesforce.comlwc/ers_datatableCPE/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/ers_datatableUtils/</loc>
+         <loc>https://salesforce.comlwc/ers_datatableUtils/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_actionList3/</loc>
+         <loc>https://salesforce.comlwc/fsc_actionList3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_displayError/</loc>
+         <loc>https://salesforce.comlwc/fsc_displayError/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_drawLine/</loc>
+         <loc>https://salesforce.comlwc/fsc_drawLine/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_drawLineCPE/</loc>
+         <loc>https://salesforce.comlwc/fsc_drawLineCPE/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_dualListBox3/</loc>
+         <loc>https://salesforce.comlwc/fsc_dualListBox3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_dualListBoxCPE/</loc>
+         <loc>https://salesforce.comlwc/fsc_dualListBoxCPE/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_dualListBoxUtils/</loc>
+         <loc>https://salesforce.comlwc/fsc_dualListBoxUtils/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_expressionBuilder3/</loc>
+         <loc>https://salesforce.comlwc/fsc_expressionBuilder3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_expressionLine/</loc>
+         <loc>https://salesforce.comlwc/fsc_expressionLine/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_extendedBaseDualListBox/</loc>
+         <loc>https://salesforce.comlwc/fsc_extendedBaseDualListBox/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_fieldSelector3/</loc>
+         <loc>https://salesforce.comlwc/fsc_fieldSelector3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_fieldViewer/</loc>
+         <loc>https://salesforce.comlwc/fsc_fieldViewer/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flexcardCPE/</loc>
+         <loc>https://salesforce.comlwc/fsc_flexcardCPE/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flexcardFlow/</loc>
+         <loc>https://salesforce.comlwc/fsc_flexcardFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flexcardHeader/</loc>
+         <loc>https://salesforce.comlwc/fsc_flexcardHeader/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowBanner/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowBanner/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowButtonBar/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowButtonBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowButtonBarCPE/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowButtonBarCPE/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowCheckbox/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowCheckbox/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowCombobox/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowCombobox/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowComboboxUtils/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowComboboxUtils/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_flowPicker3/</loc>
+         <loc>https://salesforce.comlwc/fsc_flowPicker3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_formulaBuilder3/</loc>
+         <loc>https://salesforce.comlwc/fsc_formulaBuilder3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_keyValuePairBuilderContainer/</loc>
+         <loc>https://salesforce.comlwc/fsc_keyValuePairBuilderContainer/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_keyValuePairBuilderRow/</loc>
+         <loc>https://salesforce.comlwc/fsc_keyValuePairBuilderRow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_lookup_quickRecord/</loc>
+         <loc>https://salesforce.comlwc/fsc_lookup_quickRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_lwcLogger/</loc>
+         <loc>https://salesforce.comlwc/fsc_lwcLogger/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_lwcModal/</loc>
+         <loc>https://salesforce.comlwc/fsc_lwcModal/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_lwcModalUtil/</loc>
+         <loc>https://salesforce.comlwc/fsc_lwcModalUtil/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_modalFlow/</loc>
+         <loc>https://salesforce.comlwc/fsc_modalFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_pickIcon/</loc>
+         <loc>https://salesforce.comlwc/fsc_pickIcon/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_pickIconCpe/</loc>
+         <loc>https://salesforce.comlwc/fsc_pickIconCpe/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_pickObjectAndField3/</loc>
+         <loc>https://salesforce.comlwc/fsc_pickObjectAndField3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_pickObjectAndFieldUtils/</loc>
+         <loc>https://salesforce.comlwc/fsc_pickObjectAndFieldUtils/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_quickChoiceCpe/</loc>
+         <loc>https://salesforce.comlwc/fsc_quickChoiceCpe/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_quickChoiceFSC/</loc>
+         <loc>https://salesforce.comlwc/fsc_quickChoiceFSC/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_reactiveConditionalVisibility/</loc>
+         <loc>https://salesforce.comlwc/fsc_reactiveConditionalVisibility/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_screenFlow/</loc>
+         <loc>https://salesforce.comlwc/fsc_screenFlow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_searchableDataTable/</loc>
+         <loc>https://salesforce.comlwc/fsc_searchableDataTable/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_sortingConfiguration3/</loc>
+         <loc>https://salesforce.comlwc/fsc_sortingConfiguration3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_sortingConfigurationLine/</loc>
+         <loc>https://salesforce.comlwc/fsc_sortingConfigurationLine/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_toastMessage/</loc>
+         <loc>https://salesforce.comlwc/fsc_toastMessage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/fsc_transferMetadata3/</loc>
+         <loc>https://salesforce.comlwc/fsc_transferMetadata3/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/helloWorld/</loc>
+         <loc>https://salesforce.comlwc/helloWorld/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/hiddenRefresh/</loc>
+         <loc>https://salesforce.comlwc/hiddenRefresh/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/lwcUIFormV5/</loc>
+         <loc>https://salesforce.comlwc/lwcUIFormV5/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/lwcUIFormV6/</loc>
+         <loc>https://salesforce.comlwc/lwcUIFormV6/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/lwcUIFormV7/</loc>
+         <loc>https://salesforce.comlwc/lwcUIFormV7/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/openCaseSubtab/</loc>
+         <loc>https://salesforce.comlwc/openCaseSubtab/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/lwc/recentAccounts/</loc>
+         <loc>https://salesforce.comlwc/recentAccounts/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/</loc>
+         <loc>https://salesforce.comobjects/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Account/</loc>
+         <loc>https://salesforce.comobjects/Account/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AccountAccountRelation/</loc>
+         <loc>https://salesforce.comobjects/AccountAccountRelation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AccountContactRelation/</loc>
+         <loc>https://salesforce.comobjects/AccountContactRelation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AccountContactRole/</loc>
+         <loc>https://salesforce.comobjects/AccountContactRole/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ActionPlan/</loc>
+         <loc>https://salesforce.comobjects/ActionPlan/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ActionPlanItemDependency/</loc>
+         <loc>https://salesforce.comobjects/ActionPlanItemDependency/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ActionPlanTmplItmAssessmentInd/</loc>
+         <loc>https://salesforce.comobjects/ActionPlanTmplItmAssessmentInd/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ActionPlnTmplItmDependency/</loc>
+         <loc>https://salesforce.comobjects/ActionPlnTmplItmDependency/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Activity/</loc>
+         <loc>https://salesforce.comobjects/Activity/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Address/</loc>
+         <loc>https://salesforce.comobjects/Address/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AdvAccountForecastFact/</loc>
+         <loc>https://salesforce.comobjects/AdvAccountForecastFact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AdvAcctForecastFactAdj/</loc>
+         <loc>https://salesforce.comobjects/AdvAcctForecastFactAdj/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AdvAcctForecastSetPartner/</loc>
+         <loc>https://salesforce.comobjects/AdvAcctForecastSetPartner/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AdvAcctForecastSetUse/</loc>
+         <loc>https://salesforce.comobjects/AdvAcctForecastSetUse/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AgentWork/</loc>
+         <loc>https://salesforce.comobjects/AgentWork/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AgentWorkSkill/</loc>
+         <loc>https://salesforce.comobjects/AgentWorkSkill/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AnalyticsUserAttrFuncTkn/</loc>
+         <loc>https://salesforce.comobjects/AnalyticsUserAttrFuncTkn/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppointmentCategory/</loc>
+         <loc>https://salesforce.comobjects/AppointmentCategory/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppointmentInvitation/</loc>
+         <loc>https://salesforce.comobjects/AppointmentInvitation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppointmentInvitee/</loc>
+         <loc>https://salesforce.comobjects/AppointmentInvitee/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppointmentScheduleLog/</loc>
+         <loc>https://salesforce.comobjects/AppointmentScheduleLog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppointmentTopicTimeSlot/</loc>
+         <loc>https://salesforce.comobjects/AppointmentTopicTimeSlot/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Appraisal/</loc>
+         <loc>https://salesforce.comobjects/Appraisal/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppraisalAdjustment/</loc>
+         <loc>https://salesforce.comobjects/AppraisalAdjustment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppraisalItem/</loc>
+         <loc>https://salesforce.comobjects/AppraisalItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppraisalItemAddOn/</loc>
+         <loc>https://salesforce.comobjects/AppraisalItemAddOn/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AppraisalItemProviderVal/</loc>
+         <loc>https://salesforce.comobjects/AppraisalItemProviderVal/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ApprovalSubmission/</loc>
+         <loc>https://salesforce.comobjects/ApprovalSubmission/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ApprovalSubmissionDetail/</loc>
+         <loc>https://salesforce.comobjects/ApprovalSubmissionDetail/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ApprovalWorkItem/</loc>
+         <loc>https://salesforce.comobjects/ApprovalWorkItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssessmentIndicatorDefinition/</loc>
+         <loc>https://salesforce.comobjects/AssessmentIndicatorDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssessmentTask/</loc>
+         <loc>https://salesforce.comobjects/AssessmentTask/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssessmentTaskContentDocument/</loc>
+         <loc>https://salesforce.comobjects/AssessmentTaskContentDocument/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssessmentTaskDefinition/</loc>
+         <loc>https://salesforce.comobjects/AssessmentTaskDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssessmentTaskIndDefinition/</loc>
+         <loc>https://salesforce.comobjects/AssessmentTaskIndDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssessmentTaskOrder/</loc>
+         <loc>https://salesforce.comobjects/AssessmentTaskOrder/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Asset/</loc>
+         <loc>https://salesforce.comobjects/Asset/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetAccountParticipant/</loc>
+         <loc>https://salesforce.comobjects/AssetAccountParticipant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetContactParticipant/</loc>
+         <loc>https://salesforce.comobjects/AssetContactParticipant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetMilestone/</loc>
+         <loc>https://salesforce.comobjects/AssetMilestone/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetRelationship/</loc>
+         <loc>https://salesforce.comobjects/AssetRelationship/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetTitle/</loc>
+         <loc>https://salesforce.comobjects/AssetTitle/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetTitleParty/</loc>
+         <loc>https://salesforce.comobjects/AssetTitleParty/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssetWarranty/</loc>
+         <loc>https://salesforce.comobjects/AssetWarranty/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssignedResource/</loc>
+         <loc>https://salesforce.comobjects/AssignedResource/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssistantProgress/</loc>
+         <loc>https://salesforce.comobjects/AssistantProgress/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AssociatedLocation/</loc>
+         <loc>https://salesforce.comobjects/AssociatedLocation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AsyncOperationTracker/</loc>
+         <loc>https://salesforce.comobjects/AsyncOperationTracker/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AttrPicklistExcludedValue/</loc>
+         <loc>https://salesforce.comobjects/AttrPicklistExcludedValue/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AttributeCategory/</loc>
+         <loc>https://salesforce.comobjects/AttributeCategory/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AttributeCategoryAttribute/</loc>
+         <loc>https://salesforce.comobjects/AttributeCategoryAttribute/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AttributeDefinition/</loc>
+         <loc>https://salesforce.comobjects/AttributeDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AttributePicklist/</loc>
+         <loc>https://salesforce.comobjects/AttributePicklist/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AttributePicklistValue/</loc>
+         <loc>https://salesforce.comobjects/AttributePicklistValue/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AuditTrailFileExport/</loc>
+         <loc>https://salesforce.comobjects/AuditTrailFileExport/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AuthFormRequestRecord/</loc>
+         <loc>https://salesforce.comobjects/AuthFormRequestRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AuthorizationForm/</loc>
+         <loc>https://salesforce.comobjects/AuthorizationForm/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AuthorizationFormConsent/</loc>
+         <loc>https://salesforce.comobjects/AuthorizationFormConsent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AuthorizationFormDataUse/</loc>
+         <loc>https://salesforce.comobjects/AuthorizationFormDataUse/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/AuthorizationFormText/</loc>
+         <loc>https://salesforce.comobjects/AuthorizationFormText/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Banker/</loc>
+         <loc>https://salesforce.comobjects/Banker/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BatchJob/</loc>
+         <loc>https://salesforce.comobjects/BatchJob/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BatchJobPart/</loc>
+         <loc>https://salesforce.comobjects/BatchJobPart/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BatchJobPartFailedRecord/</loc>
+         <loc>https://salesforce.comobjects/BatchJobPartFailedRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BenefitManagementRecertification__c/</loc>
+         <loc>https://salesforce.comobjects/BenefitManagementRecertification__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BranchUnit/</loc>
+         <loc>https://salesforce.comobjects/BranchUnit/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BranchUnitBusinessMember/</loc>
+         <loc>https://salesforce.comobjects/BranchUnitBusinessMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BranchUnitCustomer/</loc>
+         <loc>https://salesforce.comobjects/BranchUnitCustomer/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BranchUnitRelatedRecord/</loc>
+         <loc>https://salesforce.comobjects/BranchUnitRelatedRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BusinessBrand/</loc>
+         <loc>https://salesforce.comobjects/BusinessBrand/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BusinessMilestone/</loc>
+         <loc>https://salesforce.comobjects/BusinessMilestone/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BusinessProfile/</loc>
+         <loc>https://salesforce.comobjects/BusinessProfile/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/BusinessUnitMember/</loc>
+         <loc>https://salesforce.comobjects/BusinessUnitMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalcMatrixColumnRange/</loc>
+         <loc>https://salesforce.comobjects/CalcMatrixColumnRange/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalcProcStepRelationship/</loc>
+         <loc>https://salesforce.comobjects/CalcProcStepRelationship/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationMatrix/</loc>
+         <loc>https://salesforce.comobjects/CalculationMatrix/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationMatrixColumn/</loc>
+         <loc>https://salesforce.comobjects/CalculationMatrixColumn/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationMatrixRow/</loc>
+         <loc>https://salesforce.comobjects/CalculationMatrixRow/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationMatrixVersion/</loc>
+         <loc>https://salesforce.comobjects/CalculationMatrixVersion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationProcedure/</loc>
+         <loc>https://salesforce.comobjects/CalculationProcedure/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationProcedureStep/</loc>
+         <loc>https://salesforce.comobjects/CalculationProcedureStep/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationProcedureVariable/</loc>
+         <loc>https://salesforce.comobjects/CalculationProcedureVariable/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CalculationProcedureVersion/</loc>
+         <loc>https://salesforce.comobjects/CalculationProcedureVersion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CallCtrAgentFavTrfrDest/</loc>
+         <loc>https://salesforce.comobjects/CallCtrAgentFavTrfrDest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Campaign/</loc>
+         <loc>https://salesforce.comobjects/Campaign/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CampaignMember/</loc>
+         <loc>https://salesforce.comobjects/CampaignMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Case/</loc>
+         <loc>https://salesforce.comobjects/Case/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CaseContactRole/</loc>
+         <loc>https://salesforce.comobjects/CaseContactRole/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CaseMilestone/</loc>
+         <loc>https://salesforce.comobjects/CaseMilestone/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CaseParticipant/</loc>
+         <loc>https://salesforce.comobjects/CaseParticipant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CaseRelatedIssue/</loc>
+         <loc>https://salesforce.comobjects/CaseRelatedIssue/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ChangeRequest/</loc>
+         <loc>https://salesforce.comobjects/ChangeRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ChangeRequestRelatedIssue/</loc>
+         <loc>https://salesforce.comobjects/ChangeRequestRelatedIssue/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ChangeRequestRelatedItem/</loc>
+         <loc>https://salesforce.comobjects/ChangeRequestRelatedItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ChatterActivity/</loc>
+         <loc>https://salesforce.comobjects/ChatterActivity/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CodeSet/</loc>
+         <loc>https://salesforce.comobjects/CodeSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CodeSetBundle/</loc>
+         <loc>https://salesforce.comobjects/CodeSetBundle/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CodeSetRelationship/</loc>
+         <loc>https://salesforce.comobjects/CodeSetRelationship/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CollaborationGroup/</loc>
+         <loc>https://salesforce.comobjects/CollaborationGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CollaborationGroupMember/</loc>
+         <loc>https://salesforce.comobjects/CollaborationGroupMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CommSubscription/</loc>
+         <loc>https://salesforce.comobjects/CommSubscription/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CommSubscriptionChannelType/</loc>
+         <loc>https://salesforce.comobjects/CommSubscriptionChannelType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CommSubscriptionConsent/</loc>
+         <loc>https://salesforce.comobjects/CommSubscriptionConsent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CommSubscriptionTiming/</loc>
+         <loc>https://salesforce.comobjects/CommSubscriptionTiming/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Contact/</loc>
+         <loc>https://salesforce.comobjects/Contact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactContactRelation/</loc>
+         <loc>https://salesforce.comobjects/ContactContactRelation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactPointAddress/</loc>
+         <loc>https://salesforce.comobjects/ContactPointAddress/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactPointConsent/</loc>
+         <loc>https://salesforce.comobjects/ContactPointConsent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactPointEmail/</loc>
+         <loc>https://salesforce.comobjects/ContactPointEmail/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactPointPhone/</loc>
+         <loc>https://salesforce.comobjects/ContactPointPhone/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactPointTypeConsent/</loc>
+         <loc>https://salesforce.comobjects/ContactPointTypeConsent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContactRequest/</loc>
+         <loc>https://salesforce.comobjects/ContactRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContentVersion/</loc>
+         <loc>https://salesforce.comobjects/ContentVersion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Contract/</loc>
+         <loc>https://salesforce.comobjects/Contract/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContractContactRole/</loc>
+         <loc>https://salesforce.comobjects/ContractContactRole/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ContractLineItem/</loc>
+         <loc>https://salesforce.comobjects/ContractLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ConversationApiLog/</loc>
+         <loc>https://salesforce.comobjects/ConversationApiLog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ConversationApiLogObjSum/</loc>
+         <loc>https://salesforce.comobjects/ConversationApiLogObjSum/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CostBook/</loc>
+         <loc>https://salesforce.comobjects/CostBook/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/CostBookEntry/</loc>
+         <loc>https://salesforce.comobjects/CostBookEntry/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Customer/</loc>
+         <loc>https://salesforce.comobjects/Customer/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DataUseLegalBasis/</loc>
+         <loc>https://salesforce.comobjects/DataUseLegalBasis/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DataUsePurpose/</loc>
+         <loc>https://salesforce.comobjects/DataUsePurpose/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DecisionTblFileImportData/</loc>
+         <loc>https://salesforce.comobjects/DecisionTblFileImportData/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DelegatedAccount/</loc>
+         <loc>https://salesforce.comobjects/DelegatedAccount/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DevopsEnvironment/</loc>
+         <loc>https://salesforce.comobjects/DevopsEnvironment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DevopsRequestInfo/</loc>
+         <loc>https://salesforce.comobjects/DevopsRequestInfo/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DocumentChecklistItem/</loc>
+         <loc>https://salesforce.comobjects/DocumentChecklistItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DocumentDecisionRequirement/</loc>
+         <loc>https://salesforce.comobjects/DocumentDecisionRequirement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DuplicateRecordItem/</loc>
+         <loc>https://salesforce.comobjects/DuplicateRecordItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/DuplicateRecordSet/</loc>
+         <loc>https://salesforce.comobjects/DuplicateRecordSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGHChecklist_Item__c/</loc>
+         <loc>https://salesforce.comobjects/EGHChecklist_Item__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Automation_Bypass__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Automation_Bypass__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Campaign_User__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Campaign_User__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Consumer_Body_Emails__mdt/</loc>
+         <loc>https://salesforce.comobjects/EGH_Consumer_Body_Emails__mdt/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Escalation_Mapping__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Escalation_Mapping__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Feedback_Log__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Feedback_Log__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Interaction__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Interaction__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_LeadSalesTeam__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_LeadSalesTeam__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Matrix_Assigning_Entitlement__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Matrix_Assigning_Entitlement__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_ParentBranchBrandMapping__mdt/</loc>
+         <loc>https://salesforce.comobjects/EGH_ParentBranchBrandMapping__mdt/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_PersonalDocumentsObject__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_PersonalDocumentsObject__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Personal_Documents_Validation_Meta__mdt/</loc>
+         <loc>https://salesforce.comobjects/EGH_Personal_Documents_Validation_Meta__mdt/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_ShowroomVisit__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_ShowroomVisit__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_TrafficFine__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_TrafficFine__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EGH_Vehicle_Damage_Capture__c/</loc>
+         <loc>https://salesforce.comobjects/EGH_Vehicle_Damage_Capture__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ElectronicMediaGroup/</loc>
+         <loc>https://salesforce.comobjects/ElectronicMediaGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ElectronicMediaUse/</loc>
+         <loc>https://salesforce.comobjects/ElectronicMediaUse/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EmailMessage/</loc>
+         <loc>https://salesforce.comobjects/EmailMessage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EmpUserProvisionProcessErr/</loc>
+         <loc>https://salesforce.comobjects/EmpUserProvisionProcessErr/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EngagementAttendee/</loc>
+         <loc>https://salesforce.comobjects/EngagementAttendee/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EngagementChannelType/</loc>
+         <loc>https://salesforce.comobjects/EngagementChannelType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EngagementChannelWorkType/</loc>
+         <loc>https://salesforce.comobjects/EngagementChannelWorkType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EngagementInteraction/</loc>
+         <loc>https://salesforce.comobjects/EngagementInteraction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EngagementInterface/</loc>
+         <loc>https://salesforce.comobjects/EngagementInterface/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EngagementTopic/</loc>
+         <loc>https://salesforce.comobjects/EngagementTopic/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Entitlement/</loc>
+         <loc>https://salesforce.comobjects/Entitlement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EntitlementContact/</loc>
+         <loc>https://salesforce.comobjects/EntitlementContact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/EntityMilestone/</loc>
+         <loc>https://salesforce.comobjects/EntityMilestone/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Event/</loc>
+         <loc>https://salesforce.comobjects/Event/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ExchangeUserMapping/</loc>
+         <loc>https://salesforce.comobjects/ExchangeUserMapping/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ExpressionFilter/</loc>
+         <loc>https://salesforce.comobjects/ExpressionFilter/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ExpressionFilterCriteria/</loc>
+         <loc>https://salesforce.comobjects/ExpressionFilterCriteria/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ExpressionSet/</loc>
+         <loc>https://salesforce.comobjects/ExpressionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ExpressionSetVersion/</loc>
+         <loc>https://salesforce.comobjects/ExpressionSetVersion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ExternalEventMapping/</loc>
+         <loc>https://salesforce.comobjects/ExternalEventMapping/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FeedItem/</loc>
+         <loc>https://salesforce.comobjects/FeedItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccount/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccount/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountAddress/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountAddress/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountBalance/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountBalance/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountFee/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountFee/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountMilestone/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountMilestone/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountParty/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountParty/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountStatement/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountStatement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinancialAccountTransaction/</loc>
+         <loc>https://salesforce.comobjects/FinancialAccountTransaction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FinclAcctPtyFinclAsset/</loc>
+         <loc>https://salesforce.comobjects/FinclAcctPtyFinclAsset/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Fleet/</loc>
+         <loc>https://salesforce.comobjects/Fleet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FleetAsset/</loc>
+         <loc>https://salesforce.comobjects/FleetAsset/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FleetParticipant/</loc>
+         <loc>https://salesforce.comobjects/FleetParticipant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowOrchestrationInstance/</loc>
+         <loc>https://salesforce.comobjects/FlowOrchestrationInstance/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowOrchestrationLog/</loc>
+         <loc>https://salesforce.comobjects/FlowOrchestrationLog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowOrchestrationStageInstance/</loc>
+         <loc>https://salesforce.comobjects/FlowOrchestrationStageInstance/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowOrchestrationStepInstance/</loc>
+         <loc>https://salesforce.comobjects/FlowOrchestrationStepInstance/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowOrchestrationVersion/</loc>
+         <loc>https://salesforce.comobjects/FlowOrchestrationVersion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowOrchestrationWorkItem/</loc>
+         <loc>https://salesforce.comobjects/FlowOrchestrationWorkItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowPersonalConfiguration__c/</loc>
+         <loc>https://salesforce.comobjects/FlowPersonalConfiguration__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FlowTableViewDefinition__c/</loc>
+         <loc>https://salesforce.comobjects/FlowTableViewDefinition__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/FundTransferRequest/</loc>
+         <loc>https://salesforce.comobjects/FundTransferRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/GenericVisitTask/</loc>
+         <loc>https://salesforce.comobjects/GenericVisitTask/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/GenericVisitTaskContext/</loc>
+         <loc>https://salesforce.comobjects/GenericVisitTaskContext/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Genesys_CC_integration__c/</loc>
+         <loc>https://salesforce.comobjects/Genesys_CC_integration__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/GeoCountry/</loc>
+         <loc>https://salesforce.comobjects/GeoCountry/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/GeoState/</loc>
+         <loc>https://salesforce.comobjects/GeoState/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/GnrcVstKeyPerformanceInd/</loc>
+         <loc>https://salesforce.comobjects/GnrcVstKeyPerformanceInd/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/GnrcVstTaskContextRelation/</loc>
+         <loc>https://salesforce.comobjects/GnrcVstTaskContextRelation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Idea/</loc>
+         <loc>https://salesforce.comobjects/Idea/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Image/</loc>
+         <loc>https://salesforce.comobjects/Image/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Incident/</loc>
+         <loc>https://salesforce.comobjects/Incident/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/IncidentRelatedItem/</loc>
+         <loc>https://salesforce.comobjects/IncidentRelatedItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Individual/</loc>
+         <loc>https://salesforce.comobjects/Individual/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/InfoAuthRequestForm/</loc>
+         <loc>https://salesforce.comobjects/InfoAuthRequestForm/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/InfoAuthorizationRequest/</loc>
+         <loc>https://salesforce.comobjects/InfoAuthorizationRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/IntegrationProviderAttr/</loc>
+         <loc>https://salesforce.comobjects/IntegrationProviderAttr/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/IntegrationProviderDcsnRqmt/</loc>
+         <loc>https://salesforce.comobjects/IntegrationProviderDcsnRqmt/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/IntegrationProviderDef/</loc>
+         <loc>https://salesforce.comobjects/IntegrationProviderDef/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/IntegrationProviderExecution/</loc>
+         <loc>https://salesforce.comobjects/IntegrationProviderExecution/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/InternalOrganizationUnit/</loc>
+         <loc>https://salesforce.comobjects/InternalOrganizationUnit/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/KnowledgeArticleFeedback/</loc>
+         <loc>https://salesforce.comobjects/KnowledgeArticleFeedback/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Knowledge__kav/</loc>
+         <loc>https://salesforce.comobjects/Knowledge__kav/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Lead/</loc>
+         <loc>https://salesforce.comobjects/Lead/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/LeadLineItem/</loc>
+         <loc>https://salesforce.comobjects/LeadLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/LeadPreferredSeller/</loc>
+         <loc>https://salesforce.comobjects/LeadPreferredSeller/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/LinkedArticle/</loc>
+         <loc>https://salesforce.comobjects/LinkedArticle/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Location/</loc>
+         <loc>https://salesforce.comobjects/Location/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/LocationTrustMeasure/</loc>
+         <loc>https://salesforce.comobjects/LocationTrustMeasure/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MLModel/</loc>
+         <loc>https://salesforce.comobjects/MLModel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MLModelFactor/</loc>
+         <loc>https://salesforce.comobjects/MLModelFactor/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MLModelFactorComponent/</loc>
+         <loc>https://salesforce.comobjects/MLModelFactorComponent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Macro/</loc>
+         <loc>https://salesforce.comobjects/Macro/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MacroAction/</loc>
+         <loc>https://salesforce.comobjects/MacroAction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MacroInstruction/</loc>
+         <loc>https://salesforce.comobjects/MacroInstruction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MacroUsage/</loc>
+         <loc>https://salesforce.comobjects/MacroUsage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ManufacturingProgram/</loc>
+         <loc>https://salesforce.comobjects/ManufacturingProgram/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MessagingEndUser/</loc>
+         <loc>https://salesforce.comobjects/MessagingEndUser/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MessagingSession/</loc>
+         <loc>https://salesforce.comobjects/MessagingSession/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MfgPgmCpntFrcstFactOpptySchd/</loc>
+         <loc>https://salesforce.comobjects/MfgPgmCpntFrcstFactOpptySchd/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MfgProgramCpntFrcstFact/</loc>
+         <loc>https://salesforce.comobjects/MfgProgramCpntFrcstFact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MfgProgramForecastFact/</loc>
+         <loc>https://salesforce.comobjects/MfgProgramForecastFact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MfgProgramVariantFrcstFact/</loc>
+         <loc>https://salesforce.comobjects/MfgProgramVariantFrcstFact/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/MultipartyInfoAuthRequest/</loc>
+         <loc>https://salesforce.comobjects/MultipartyInfoAuthRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/NetworkMember/</loc>
+         <loc>https://salesforce.comobjects/NetworkMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/NetworkMemberChunk/</loc>
+         <loc>https://salesforce.comobjects/NetworkMemberChunk/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ObjectMilestonePauseTime/</loc>
+         <loc>https://salesforce.comobjects/ObjectMilestonePauseTime/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniComponentErrorLog/</loc>
+         <loc>https://salesforce.comobjects/OmniComponentErrorLog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniDataPack/</loc>
+         <loc>https://salesforce.comobjects/OmniDataPack/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniDataTransform/</loc>
+         <loc>https://salesforce.comobjects/OmniDataTransform/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniDataTransformItem/</loc>
+         <loc>https://salesforce.comobjects/OmniDataTransformItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniESignatureTemplate/</loc>
+         <loc>https://salesforce.comobjects/OmniESignatureTemplate/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniGlobalAutoNumber/</loc>
+         <loc>https://salesforce.comobjects/OmniGlobalAutoNumber/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniProcess/</loc>
+         <loc>https://salesforce.comobjects/OmniProcess/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniProcessCompilation/</loc>
+         <loc>https://salesforce.comobjects/OmniProcessCompilation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniProcessElement/</loc>
+         <loc>https://salesforce.comobjects/OmniProcessElement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniProcessTransientData/</loc>
+         <loc>https://salesforce.comobjects/OmniProcessTransientData/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniScriptSavedSession/</loc>
+         <loc>https://salesforce.comobjects/OmniScriptSavedSession/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OmniUiCard/</loc>
+         <loc>https://salesforce.comobjects/OmniUiCard/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OperatingHours/</loc>
+         <loc>https://salesforce.comobjects/OperatingHours/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OperatingHoursHoliday/</loc>
+         <loc>https://salesforce.comobjects/OperatingHoursHoliday/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Opportunity/</loc>
+         <loc>https://salesforce.comobjects/Opportunity/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OpportunityCompetitor/</loc>
+         <loc>https://salesforce.comobjects/OpportunityCompetitor/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OpportunityContactRole/</loc>
+         <loc>https://salesforce.comobjects/OpportunityContactRole/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OpportunityLineItem/</loc>
+         <loc>https://salesforce.comobjects/OpportunityLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OpportunityPreferredSeller/</loc>
+         <loc>https://salesforce.comobjects/OpportunityPreferredSeller/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OpportunityRelatedDeleteLog/</loc>
+         <loc>https://salesforce.comobjects/OpportunityRelatedDeleteLog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Order/</loc>
+         <loc>https://salesforce.comobjects/Order/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OrderItem/</loc>
+         <loc>https://salesforce.comobjects/OrderItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OrgMetricScanResult/</loc>
+         <loc>https://salesforce.comobjects/OrgMetricScanResult/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/OrgMetricScanSummary/</loc>
+         <loc>https://salesforce.comobjects/OrgMetricScanSummary/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PartnerRole/</loc>
+         <loc>https://salesforce.comobjects/PartnerRole/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PartyConsent/</loc>
+         <loc>https://salesforce.comobjects/PartyConsent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PartyFinancialAsset/</loc>
+         <loc>https://salesforce.comobjects/PartyFinancialAsset/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PartyFinclAssetAddlOwner/</loc>
+         <loc>https://salesforce.comobjects/PartyFinclAssetAddlOwner/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PartyRoleRelation/</loc>
+         <loc>https://salesforce.comobjects/PartyRoleRelation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PendingServiceRouting/</loc>
+         <loc>https://salesforce.comobjects/PendingServiceRouting/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PersonAccount/</loc>
+         <loc>https://salesforce.comobjects/PersonAccount/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PersonLifeEvent/</loc>
+         <loc>https://salesforce.comobjects/PersonLifeEvent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Pricebook2/</loc>
+         <loc>https://salesforce.comobjects/Pricebook2/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PricebookEntry/</loc>
+         <loc>https://salesforce.comobjects/PricebookEntry/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Problem/</loc>
+         <loc>https://salesforce.comobjects/Problem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProblemIncident/</loc>
+         <loc>https://salesforce.comobjects/ProblemIncident/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProblemRelatedItem/</loc>
+         <loc>https://salesforce.comobjects/ProblemRelatedItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProcessException/</loc>
+         <loc>https://salesforce.comobjects/ProcessException/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Product2/</loc>
+         <loc>https://salesforce.comobjects/Product2/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductAttribute/</loc>
+         <loc>https://salesforce.comobjects/ProductAttribute/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductAttributeDefinition/</loc>
+         <loc>https://salesforce.comobjects/ProductAttributeDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductAttributeSetProduct/</loc>
+         <loc>https://salesforce.comobjects/ProductAttributeSetProduct/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductAvailabilityProjection/</loc>
+         <loc>https://salesforce.comobjects/ProductAvailabilityProjection/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductCatalog/</loc>
+         <loc>https://salesforce.comobjects/ProductCatalog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductCategory/</loc>
+         <loc>https://salesforce.comobjects/ProductCategory/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductCategoryDisqual/</loc>
+         <loc>https://salesforce.comobjects/ProductCategoryDisqual/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductCategoryMedia/</loc>
+         <loc>https://salesforce.comobjects/ProductCategoryMedia/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductCategoryProduct/</loc>
+         <loc>https://salesforce.comobjects/ProductCategoryProduct/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductCategoryQualification/</loc>
+         <loc>https://salesforce.comobjects/ProductCategoryQualification/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductClassification/</loc>
+         <loc>https://salesforce.comobjects/ProductClassification/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductClassificationAttr/</loc>
+         <loc>https://salesforce.comobjects/ProductClassificationAttr/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductComponentGroup/</loc>
+         <loc>https://salesforce.comobjects/ProductComponentGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductComponentGrpOverride/</loc>
+         <loc>https://salesforce.comobjects/ProductComponentGrpOverride/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductConsumed/</loc>
+         <loc>https://salesforce.comobjects/ProductConsumed/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductConsumedState/</loc>
+         <loc>https://salesforce.comobjects/ProductConsumedState/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductDisqualification/</loc>
+         <loc>https://salesforce.comobjects/ProductDisqualification/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductFaultCode/</loc>
+         <loc>https://salesforce.comobjects/ProductFaultCode/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductFulfillmentLocation/</loc>
+         <loc>https://salesforce.comobjects/ProductFulfillmentLocation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductItem/</loc>
+         <loc>https://salesforce.comobjects/ProductItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductItemTransaction/</loc>
+         <loc>https://salesforce.comobjects/ProductItemTransaction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductLaborCode/</loc>
+         <loc>https://salesforce.comobjects/ProductLaborCode/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductMedia/</loc>
+         <loc>https://salesforce.comobjects/ProductMedia/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductQualification/</loc>
+         <loc>https://salesforce.comobjects/ProductQualification/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductQuantityRule/</loc>
+         <loc>https://salesforce.comobjects/ProductQuantityRule/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRelComponentOverride/</loc>
+         <loc>https://salesforce.comobjects/ProductRelComponentOverride/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRelatedComponent/</loc>
+         <loc>https://salesforce.comobjects/ProductRelatedComponent/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRelatedMaterial/</loc>
+         <loc>https://salesforce.comobjects/ProductRelatedMaterial/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRelationshipType/</loc>
+         <loc>https://salesforce.comobjects/ProductRelationshipType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRequest/</loc>
+         <loc>https://salesforce.comobjects/ProductRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRequestLineItem/</loc>
+         <loc>https://salesforce.comobjects/ProductRequestLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductRequired/</loc>
+         <loc>https://salesforce.comobjects/ProductRequired/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductSellingModel/</loc>
+         <loc>https://salesforce.comobjects/ProductSellingModel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductTransfer/</loc>
+         <loc>https://salesforce.comobjects/ProductTransfer/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductTransferState/</loc>
+         <loc>https://salesforce.comobjects/ProductTransferState/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProductWarrantyTerm/</loc>
+         <loc>https://salesforce.comobjects/ProductWarrantyTerm/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProfileSkill/</loc>
+         <loc>https://salesforce.comobjects/ProfileSkill/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProfileSkillEndorsement/</loc>
+         <loc>https://salesforce.comobjects/ProfileSkillEndorsement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ProfileSkillUser/</loc>
+         <loc>https://salesforce.comobjects/ProfileSkillUser/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PromptAction/</loc>
+         <loc>https://salesforce.comobjects/PromptAction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PromptError/</loc>
+         <loc>https://salesforce.comobjects/PromptError/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PublicComplaint/</loc>
+         <loc>https://salesforce.comobjects/PublicComplaint/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/PurchaseQuantityRule/</loc>
+         <loc>https://salesforce.comobjects/PurchaseQuantityRule/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/QuickText/</loc>
+         <loc>https://salesforce.comobjects/QuickText/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/QuickTextUsage/</loc>
+         <loc>https://salesforce.comobjects/QuickTextUsage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Quote/</loc>
+         <loc>https://salesforce.comobjects/Quote/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/QuoteAction/</loc>
+         <loc>https://salesforce.comobjects/QuoteAction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/QuoteLineItem/</loc>
+         <loc>https://salesforce.comobjects/QuoteLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ReceivedDocument/</loc>
+         <loc>https://salesforce.comobjects/ReceivedDocument/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ReceivedDocumentType/</loc>
+         <loc>https://salesforce.comobjects/ReceivedDocumentType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Recommendation/</loc>
+         <loc>https://salesforce.comobjects/Recommendation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RecordAction/</loc>
+         <loc>https://salesforce.comobjects/RecordAction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RecordActnSelItemExtrc/</loc>
+         <loc>https://salesforce.comobjects/RecordActnSelItemExtrc/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RecordAlert/</loc>
+         <loc>https://salesforce.comobjects/RecordAlert/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RecordAlertActionableTarget/</loc>
+         <loc>https://salesforce.comobjects/RecordAlertActionableTarget/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RecordMergeHistory/</loc>
+         <loc>https://salesforce.comobjects/RecordMergeHistory/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RecurrenceSchedule/</loc>
+         <loc>https://salesforce.comobjects/RecurrenceSchedule/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RelationshipGraphView/</loc>
+         <loc>https://salesforce.comobjects/RelationshipGraphView/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ResourceAbsence/</loc>
+         <loc>https://salesforce.comobjects/ResourceAbsence/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ResourcePreference/</loc>
+         <loc>https://salesforce.comobjects/ResourcePreference/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ReturnOrder/</loc>
+         <loc>https://salesforce.comobjects/ReturnOrder/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ReturnOrderLineItem/</loc>
+         <loc>https://salesforce.comobjects/ReturnOrderLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RevenueAsyncOperation/</loc>
+         <loc>https://salesforce.comobjects/RevenueAsyncOperation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/RevenueTransactionErrorLog/</loc>
+         <loc>https://salesforce.comobjects/RevenueTransactionErrorLog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SalesAgreement/</loc>
+         <loc>https://salesforce.comobjects/SalesAgreement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SalesAgreementProdSchdAdj/</loc>
+         <loc>https://salesforce.comobjects/SalesAgreementProdSchdAdj/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SalesAgreementProduct/</loc>
+         <loc>https://salesforce.comobjects/SalesAgreementProduct/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SalesAgreementProductSchedule/</loc>
+         <loc>https://salesforce.comobjects/SalesAgreementProductSchedule/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SalesStore/</loc>
+         <loc>https://salesforce.comobjects/SalesStore/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Scorecard/</loc>
+         <loc>https://salesforce.comobjects/Scorecard/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ScorecardAssociation/</loc>
+         <loc>https://salesforce.comobjects/ScorecardAssociation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ScorecardMetric/</loc>
+         <loc>https://salesforce.comobjects/ScorecardMetric/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Seller/</loc>
+         <loc>https://salesforce.comobjects/Seller/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SellerProduct/</loc>
+         <loc>https://salesforce.comobjects/SellerProduct/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SerializedProduct/</loc>
+         <loc>https://salesforce.comobjects/SerializedProduct/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SerializedProductTransaction/</loc>
+         <loc>https://salesforce.comobjects/SerializedProductTransaction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceAppointment/</loc>
+         <loc>https://salesforce.comobjects/ServiceAppointment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceAppointmentAttendee/</loc>
+         <loc>https://salesforce.comobjects/ServiceAppointmentAttendee/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceContract/</loc>
+         <loc>https://salesforce.comobjects/ServiceContract/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceResource/</loc>
+         <loc>https://salesforce.comobjects/ServiceResource/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceResourceSkill/</loc>
+         <loc>https://salesforce.comobjects/ServiceResourceSkill/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceTerritory/</loc>
+         <loc>https://salesforce.comobjects/ServiceTerritory/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceTerritoryMember/</loc>
+         <loc>https://salesforce.comobjects/ServiceTerritoryMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ServiceTerritoryWorkType/</loc>
+         <loc>https://salesforce.comobjects/ServiceTerritoryWorkType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SetupDataSynchronization/</loc>
+         <loc>https://salesforce.comobjects/SetupDataSynchronization/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SharingRecordCollection/</loc>
+         <loc>https://salesforce.comobjects/SharingRecordCollection/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SharingRecordCollectionItem/</loc>
+         <loc>https://salesforce.comobjects/SharingRecordCollectionItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SharingRecordCollectionMember/</loc>
+         <loc>https://salesforce.comobjects/SharingRecordCollectionMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Shift/</loc>
+         <loc>https://salesforce.comobjects/Shift/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ShiftEngagementChannel/</loc>
+         <loc>https://salesforce.comobjects/ShiftEngagementChannel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ShiftWorkTopic/</loc>
+         <loc>https://salesforce.comobjects/ShiftWorkTopic/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Shipment/</loc>
+         <loc>https://salesforce.comobjects/Shipment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ShipmentItem/</loc>
+         <loc>https://salesforce.comobjects/ShipmentItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ShippingConfigurationSet/</loc>
+         <loc>https://salesforce.comobjects/ShippingConfigurationSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ShippingRateArea/</loc>
+         <loc>https://salesforce.comobjects/ShippingRateArea/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ShippingRateGroup/</loc>
+         <loc>https://salesforce.comobjects/ShippingRateGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Site/</loc>
+         <loc>https://salesforce.comobjects/Site/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SkillRequirement/</loc>
+         <loc>https://salesforce.comobjects/SkillRequirement/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SlackChannelRelatedRecord/</loc>
+         <loc>https://salesforce.comobjects/SlackChannelRelatedRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SocialPersona/</loc>
+         <loc>https://salesforce.comobjects/SocialPersona/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SocialPost/</loc>
+         <loc>https://salesforce.comobjects/SocialPost/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Solution/</loc>
+         <loc>https://salesforce.comobjects/Solution/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/StandardShippingRate/</loc>
+         <loc>https://salesforce.comobjects/StandardShippingRate/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/StreamActivityAccess/</loc>
+         <loc>https://salesforce.comobjects/StreamActivityAccess/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/StreamingChannel/</loc>
+         <loc>https://salesforce.comobjects/StreamingChannel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Supplier/</loc>
+         <loc>https://salesforce.comobjects/Supplier/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SupplierProduct/</loc>
+         <loc>https://salesforce.comobjects/SupplierProduct/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Survey/</loc>
+         <loc>https://salesforce.comobjects/Survey/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyInvitation/</loc>
+         <loc>https://salesforce.comobjects/SurveyInvitation/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyMessagingChannel/</loc>
+         <loc>https://salesforce.comobjects/SurveyMessagingChannel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyPage/</loc>
+         <loc>https://salesforce.comobjects/SurveyPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyQuestionChoice/</loc>
+         <loc>https://salesforce.comobjects/SurveyQuestionChoice/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyQuestionResponse/</loc>
+         <loc>https://salesforce.comobjects/SurveyQuestionResponse/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyResponse/</loc>
+         <loc>https://salesforce.comobjects/SurveyResponse/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveySubject/</loc>
+         <loc>https://salesforce.comobjects/SurveySubject/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/SurveyVersion/</loc>
+         <loc>https://salesforce.comobjects/SurveyVersion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/TableauHostMapping/</loc>
+         <loc>https://salesforce.comobjects/TableauHostMapping/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/TagCategory/</loc>
+         <loc>https://salesforce.comobjects/TagCategory/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/TagCategoryAssignment/</loc>
+         <loc>https://salesforce.comobjects/TagCategoryAssignment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Task/</loc>
+         <loc>https://salesforce.comobjects/Task/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/TenantPvsnProdtLicMap/</loc>
+         <loc>https://salesforce.comobjects/TenantPvsnProdtLicMap/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/TimeSlot/</loc>
+         <loc>https://salesforce.comobjects/TimeSlot/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Topic/</loc>
+         <loc>https://salesforce.comobjects/Topic/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/TopicAssignment/</loc>
+         <loc>https://salesforce.comobjects/TopicAssignment/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UnitOfMeasure/</loc>
+         <loc>https://salesforce.comobjects/UnitOfMeasure/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UnitOfMeasureConversion/</loc>
+         <loc>https://salesforce.comobjects/UnitOfMeasureConversion/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/User/</loc>
+         <loc>https://salesforce.comobjects/User/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UserCapabilityPreference/</loc>
+         <loc>https://salesforce.comobjects/UserCapabilityPreference/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UserExternalCredential/</loc>
+         <loc>https://salesforce.comobjects/UserExternalCredential/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UserLocalWebServerIdentity/</loc>
+         <loc>https://salesforce.comobjects/UserLocalWebServerIdentity/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UserPrioritizedRecord/</loc>
+         <loc>https://salesforce.comobjects/UserPrioritizedRecord/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UserProvisioningRequest/</loc>
+         <loc>https://salesforce.comobjects/UserProvisioningRequest/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/UserServicePresence/</loc>
+         <loc>https://salesforce.comobjects/UserServicePresence/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Vehicle/</loc>
+         <loc>https://salesforce.comobjects/Vehicle/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/VehicleDefinition/</loc>
+         <loc>https://salesforce.comobjects/VehicleDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/VideoCall/</loc>
+         <loc>https://salesforce.comobjects/VideoCall/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/VideoCallParticipant/</loc>
+         <loc>https://salesforce.comobjects/VideoCallParticipant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/VideoCallRecording/</loc>
+         <loc>https://salesforce.comobjects/VideoCallRecording/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Visit/</loc>
+         <loc>https://salesforce.comobjects/Visit/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/VisitedParty/</loc>
+         <loc>https://salesforce.comobjects/VisitedParty/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Visitor/</loc>
+         <loc>https://salesforce.comobjects/Visitor/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/VoiceCall/</loc>
+         <loc>https://salesforce.comobjects/VoiceCall/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/Waitlist/</loc>
+         <loc>https://salesforce.comobjects/Waitlist/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WaitlistParticipant/</loc>
+         <loc>https://salesforce.comobjects/WaitlistParticipant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WaitlistServiceResource/</loc>
+         <loc>https://salesforce.comobjects/WaitlistServiceResource/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WaitlistWorkType/</loc>
+         <loc>https://salesforce.comobjects/WaitlistWorkType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WarrantyTerm/</loc>
+         <loc>https://salesforce.comobjects/WarrantyTerm/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WarrantyTermCoverage/</loc>
+         <loc>https://salesforce.comobjects/WarrantyTermCoverage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WebStore/</loc>
+         <loc>https://salesforce.comobjects/WebStore/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WebStoreCatalog/</loc>
+         <loc>https://salesforce.comobjects/WebStoreCatalog/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkBadge/</loc>
+         <loc>https://salesforce.comobjects/WorkBadge/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkBadgeDefinition/</loc>
+         <loc>https://salesforce.comobjects/WorkBadgeDefinition/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkOrder/</loc>
+         <loc>https://salesforce.comobjects/WorkOrder/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkOrderLineItem/</loc>
+         <loc>https://salesforce.comobjects/WorkOrderLineItem/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkPlan/</loc>
+         <loc>https://salesforce.comobjects/WorkPlan/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkPlanTemplate/</loc>
+         <loc>https://salesforce.comobjects/WorkPlanTemplate/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkPlanTemplateEntry/</loc>
+         <loc>https://salesforce.comobjects/WorkPlanTemplateEntry/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkStep/</loc>
+         <loc>https://salesforce.comobjects/WorkStep/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkStepTemplate/</loc>
+         <loc>https://salesforce.comobjects/WorkStepTemplate/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkThanks/</loc>
+         <loc>https://salesforce.comobjects/WorkThanks/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkType/</loc>
+         <loc>https://salesforce.comobjects/WorkType/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkTypeGroup/</loc>
+         <loc>https://salesforce.comobjects/WorkTypeGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkTypeGroupMember/</loc>
+         <loc>https://salesforce.comobjects/WorkTypeGroupMember/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/WorkflowSLAAction/</loc>
+         <loc>https://salesforce.comobjects/WorkflowSLAAction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/objects/ers_datatableConfig__c/</loc>
+         <loc>https://salesforce.comobjects/ers_datatableConfig__c/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/</loc>
+         <loc>https://salesforce.compages/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/AcademicOperations_UtilityBar/</loc>
+         <loc>https://salesforce.compages/AcademicOperations_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Asset_Record_Page/</loc>
+         <loc>https://salesforce.compages/Asset_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/DataGovernanceConsole_UtilityBar/</loc>
+         <loc>https://salesforce.compages/DataGovernanceConsole_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_AppraisalLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_AppraisalLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_BusinessAccountLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_BusinessAccountLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_BusinessProfileLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_BusinessProfileLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Campaign_Layout/</loc>
+         <loc>https://salesforce.compages/EGH_Campaign_Layout/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Campaign_User/</loc>
+         <loc>https://salesforce.compages/EGH_Campaign_User/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Case_Record_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Case_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Escalation_Mapping/</loc>
+         <loc>https://salesforce.compages/EGH_Escalation_Mapping/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_FleetAccountLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_FleetAccountLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_LeadLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_LeadLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_MeetGreetResourceView/</loc>
+         <loc>https://salesforce.compages/EGH_MeetGreetResourceView/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_OpportunityLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_OpportunityLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_PersonAccountLightningPage/</loc>
+         <loc>https://salesforce.compages/EGH_PersonAccountLightningPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Read_Only_Opportunity_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Read_Only_Opportunity_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Service_Appointment_Lightning_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Service_Appointment_Lightning_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Service_Appointment_SystemAdmin/</loc>
+         <loc>https://salesforce.compages/EGH_Service_Appointment_SystemAdmin/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Service_Console_UtilityBar/</loc>
+         <loc>https://salesforce.compages/EGH_Service_Console_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Showroom_Visit_Record_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Showroom_Visit_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Task_Record_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Task_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Traffic_Fine_Lightning_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Traffic_Fine_Lightning_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_VehicleLightningRecordPage/</loc>
+         <loc>https://salesforce.compages/EGH_VehicleLightningRecordPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/EGH_Vehicle_Damage_Capture_Record_Page/</loc>
+         <loc>https://salesforce.compages/EGH_Vehicle_Damage_Capture_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/ExpressionSetConsole_UtilityBar/</loc>
+         <loc>https://salesforce.compages/ExpressionSetConsole_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/FlowsApp_UtilityBar/</loc>
+         <loc>https://salesforce.compages/FlowsApp_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Genesys_Experience_Layout/</loc>
+         <loc>https://salesforce.compages/Genesys_Experience_Layout/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Home_Page_Default/</loc>
+         <loc>https://salesforce.compages/Home_Page_Default/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Interaction/</loc>
+         <loc>https://salesforce.compages/Interaction/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Knowledge_Record_Page/</loc>
+         <loc>https://salesforce.compages/Knowledge_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Knowledge_Record_Page1/</loc>
+         <loc>https://salesforce.compages/Knowledge_Record_Page1/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/LeadSystemAdminPage/</loc>
+         <loc>https://salesforce.compages/LeadSystemAdminPage/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Lead_Sales_Team_Record_Page/</loc>
+         <loc>https://salesforce.compages/Lead_Sales_Team_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/LightningSalesConsole_UtilityBar/</loc>
+         <loc>https://salesforce.compages/LightningSalesConsole_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/LightningSales_UtilityBar/</loc>
+         <loc>https://salesforce.compages/LightningSales_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/LightningService_UtilityBar/</loc>
+         <loc>https://salesforce.compages/LightningService_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Meet_Greet/</loc>
+         <loc>https://salesforce.compages/Meet_Greet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Meet_Greet_UtilityBar/</loc>
+         <loc>https://salesforce.compages/Meet_Greet_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Personal_Document_Lightning_Page/</loc>
+         <loc>https://salesforce.compages/Personal_Document_Lightning_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Product_Genius/</loc>
+         <loc>https://salesforce.compages/Product_Genius/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Product_Genius_UtilityBar/</loc>
+         <loc>https://salesforce.compages/Product_Genius_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Product_Record_Page/</loc>
+         <loc>https://salesforce.compages/Product_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/SalesCloudMobile_UtilityBar/</loc>
+         <loc>https://salesforce.compages/SalesCloudMobile_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Service_Appointment_Record_Page/</loc>
+         <loc>https://salesforce.compages/Service_Appointment_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Service_Appointment_Record_Page1/</loc>
+         <loc>https://salesforce.compages/Service_Appointment_Record_Page1/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Service_Appointment_Record_Page2/</loc>
+         <loc>https://salesforce.compages/Service_Appointment_Record_Page2/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/TrustedServicesPrivacyAgent_UtilityBar/</loc>
+         <loc>https://salesforce.compages/TrustedServicesPrivacyAgent_UtilityBar/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Voice_Call_Layout/</loc>
+         <loc>https://salesforce.compages/Voice_Call_Layout/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Voice_Call_Record_Page/</loc>
+         <loc>https://salesforce.compages/Voice_Call_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/pages/Work_Type_Record_Page/</loc>
+         <loc>https://salesforce.compages/Work_Type_Record_Page/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/</loc>
+         <loc>https://salesforce.compermissionsetgroups/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_AutomotiveSalesUsersPermissionSetGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_AutomotiveSalesUsersPermissionSetGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_AutomotiveServiceUsersPermissionSetGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_AutomotiveServiceUsersPermissionSetGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_ContactCenter_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_ContactCenter_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_DevOpsCenterUsersPermissionSetGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_DevOpsCenterUsersPermissionSetGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_DigitalSales_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_DigitalSales_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_FleetConsultant_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_FleetConsultant_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_MeetGreet_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_MeetGreet_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_ProductGenius_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_ProductGenius_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_SalesConsultant_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_SalesConsultant_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_ServiceConsultant_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_ServiceConsultant_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/EGH_TestDriveTeam_PSGroup/</loc>
+         <loc>https://salesforce.compermissionsetgroups/EGH_TestDriveTeam_PSGroup/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/Genesys_PSG_for_Agents/</loc>
+         <loc>https://salesforce.compermissionsetgroups/Genesys_PSG_for_Agents/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/Genesys_PSG_for_Integration/</loc>
+         <loc>https://salesforce.compermissionsetgroups/Genesys_PSG_for_Integration/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsetgroups/Genesys_PSG_for_Managers/</loc>
+         <loc>https://salesforce.compermissionsetgroups/Genesys_PSG_for_Managers/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/</loc>
+         <loc>https://salesforce.compermissionsets/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/Badge_Object_Access/</loc>
+         <loc>https://salesforce.compermissionsets/Badge_Object_Access/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Apex_Classes/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Apex_Classes/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_BypassFlowsPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_BypassFlowsPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Contact_Center_PS/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Contact_Center_PS/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Core_Integration_Permission_Set/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Core_Integration_Permission_Set/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Core_Permission/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Core_Permission/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Digital_Sales_Consultant_Omni_Channel/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Digital_Sales_Consultant_Omni_Channel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_F_I_OmniChannel/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_F_I_OmniChannel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_FeedbackManagementAdvancedPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_FeedbackManagementAdvancedPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_FilesConnectPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_FilesConnectPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_FleetManagementPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_FleetManagementPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Fleet_Consultant/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Fleet_Consultant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Knowledge_Admin/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Knowledge_Admin/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Lease_Consultant/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Lease_Consultant/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Meet_and_Greet_Application/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Meet_and_Greet_Application/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_ModifyServiceAppointmentsPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_ModifyServiceAppointmentsPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Product_Genius/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Product_Genius/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Product_Genius_Admin/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Product_Genius_Admin/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_QA_and_Data_Analyst_PS/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_QA_and_Data_Analyst_PS/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Sales_Consultant_Omni_Channel/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Sales_Consultant_Omni_Channel/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Sales_Team_Leader_PS/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Sales_Team_Leader_PS/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_SalesforceSchedulerResourcesPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_SalesforceSchedulerResourcesPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Service_Consultants_PS/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Service_Consultants_PS/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Service_Team_Leader_PS/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Service_Team_Leader_PS/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_SystemAdminPermissionSet/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_SystemAdminPermissionSet/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Test_Drive_Admin/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Test_Drive_Admin/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/EGH_Test_Drive_Team/</loc>
+         <loc>https://salesforce.compermissionsets/EGH_Test_Drive_Team/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/Lightning_Experience_User/</loc>
+         <loc>https://salesforce.compermissionsets/Lightning_Experience_User/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/PS_Genesys_Experience_Permission/</loc>
+         <loc>https://salesforce.compermissionsets/PS_Genesys_Experience_Permission/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/PS_Genesys_Integration/</loc>
+         <loc>https://salesforce.compermissionsets/PS_Genesys_Integration/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/PS_Genesys_Permissions/</loc>
+         <loc>https://salesforce.compermissionsets/PS_Genesys_Permissions/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/PS_Genesys_Presences/</loc>
+         <loc>https://salesforce.compermissionsets/PS_Genesys_Presences/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/PartnerTelephonyCustomPsl/</loc>
+         <loc>https://salesforce.compermissionsets/PartnerTelephonyCustomPsl/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/Salesforce_Feedback_Management_Starter/</loc>
+         <loc>https://salesforce.compermissionsets/Salesforce_Feedback_Management_Starter/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/Test/</loc>
+         <loc>https://salesforce.compermissionsets/Test/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/Trailhead/</loc>
+         <loc>https://salesforce.compermissionsets/Trailhead/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/USF_Flow_Screen_Component_Custom_Objects/</loc>
+         <loc>https://salesforce.compermissionsets/USF_Flow_Screen_Component_Custom_Objects/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/USF_Flow_Screen_Component_Datatable/</loc>
+         <loc>https://salesforce.compermissionsets/USF_Flow_Screen_Component_Datatable/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/dreamhouse/</loc>
+         <loc>https://salesforce.compermissionsets/dreamhouse/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/sf_devops_InitializeEnvironments/</loc>
+         <loc>https://salesforce.compermissionsets/sf_devops_InitializeEnvironments/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/permissionsets/sf_devops_NamedCredentials/</loc>
+         <loc>https://salesforce.compermissionsets/sf_devops_NamedCredentials/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/profiles/</loc>
+         <loc>https://salesforce.comprofiles/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/profiles/Admin/</loc>
+         <loc>https://salesforce.comprofiles/Admin/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/profiles/EGH%20Minimum%20Access%20Profile/</loc>
+         <loc>https://salesforce.comprofiles/EGH%20Minimum%20Access%20Profile/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/profiles/EGH%20Sales%20Profile/</loc>
+         <loc>https://salesforce.comprofiles/EGH%20Sales%20Profile/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/profiles/EGH%20Service%20Profile/</loc>
+         <loc>https://salesforce.comprofiles/EGH%20Service%20Profile/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
     <url>
-         <loc>https://sfdx-hardis.cloudity.com/profiles/TestProfile/</loc>
+         <loc>https://salesforce.comprofiles/TestProfile/</loc>
          <lastmod>2026-02-12</lastmod>
     </url>
 </urlset>
